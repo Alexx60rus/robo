@@ -1,0 +1,18 @@
+{
+    "name": "sloth",
+    "version": "1.0.9",
+    "description": "sloth:bit from sunfounder",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "sloth.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
